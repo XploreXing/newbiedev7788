@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @newbiedev7788
+- 👋 Hi, I’m @XploreXing
 - 👀 I’m interested in reading, cooking, working–out in the gym. I'm quite a foodie and a coffee lover.
-- 🌱 As you can see from my userID, on the 1st day of 2024, I created the Github account for a future milestone. It could happen some day or it will never happen.
-- 👀 I'm still a newbie or even a layperson in the field of programming. I’m currently preparing for my second master application(related to programming,hope it
-won't let me regret.
+- 👀 As a lifelong learner with a background in translation and interpretation, I have always embraced challenges, from mastering simultaneous interpretation to transitioning into the tech field. I am exploring my own unique way to combine linguistic skills with tech, hope one day I can figure it out.
 - 📫 How to reach me (let's keep it secret for now)
 
 <!---
